@@ -1,3 +1,8 @@
+.project {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
 body {
   --text-color: #222;
   --bkg-color: #fff;
@@ -14,8 +19,8 @@ body.dark-theme {
     --bkg-color: #121212;
   }
   body.light-theme {
-    --text-color: #222;
-    --bkg-color: #fff;
+    --text-color: #3b6978;
+    --bkg-color: #e7dfd5;
   }
 }
 
