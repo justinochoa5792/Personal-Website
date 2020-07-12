@@ -1,12 +1,3 @@
-.about {
-  font-size: large;
-  display: grid;
-  justify-content: center;
-}
-.hi {
-  color: white;
-}
-
 body {
   --text-color: #222;
   --bkg-color: #fff;
